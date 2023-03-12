@@ -39,7 +39,7 @@ const BLOG = {
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionSpacesId: process.env.NOTION_SPACES_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
-  notionDomain: 'https://www.notion.so/dhevy/126f76f361654c58826749d6ccfe92ce?v=c77ae7f265bf4452884095ac48fc87dd',
+  notionDomain: 'dhevy.notion.site',
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
   telegramChatId: '263895784', // The chat id of your Telegram bot
   telegramChannelUrl: 'https://channel.zuolan.me/', // The link of your Telegram channel
